@@ -1,6 +1,5 @@
 # Bike Sharing Demand Prediction
 
-![Bike Sharing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0968090X18306764&psig=AOvVaw2K_LSWx1OwDgjqaTt34zEs&ust=1690827066333000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiOheeDt4ADFQAAAAAdAAAAABAE)
 
 ## Introduction
 

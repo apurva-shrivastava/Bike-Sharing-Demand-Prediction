@@ -13,7 +13,11 @@ The "Bike Sharing Demand Prediction" project aims to forecast the demand for bik
 
 ## Dataset
 
-The dataset used in this project can be obtained from [here](https://drive.google.com/file/d/1dZ7p614gC_iwxHwcj-1N0Lc155AGMTJS/view?usp=sharing). It comprises historical bike rental information, capturing various attributes such as date, time, weather conditions, and the number of bikes rented during each hour. The data is split into training and testing sets to facilitate model development and evaluation.
+The dataset used in this project can be obtained from [here](https://drive.google.com/file/d/1dZ7p614gC_iwxHwcj-1N0Lc155AGMTJS/view?usp=sharing).
+
+It comprises historical bike rental information, capturing various attributes such as date, time, weather conditions, and the number of bikes rented during each hour.
+
+The data is split into training and testing sets to facilitate model development and evaluation.
 
 The dataset includes the following features:
 
@@ -60,7 +64,7 @@ Once the project and its dependencies are installed, you can explore the dataset
 
 The main files in this repository are:
 
-- `bike_sharing_prediction.ipynb`: Jupyter Notebook containing a detailed step-by-step process of data preprocessing, model training, and evaluation.
+- `bike_sharing_demand_prediction.ipynb`: Jupyter Notebook containing a detailed step-by-step process of data preprocessing, model training, and evaluation.
 
 
 

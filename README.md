@@ -3,7 +3,11 @@
 
 ## Introduction
 
-Bike-sharing systems have gained tremendous popularity as an eco-friendly and convenient mode of transportation in urban areas. These systems allow users to rent bikes for short periods, promoting sustainable mobility and reducing traffic congestion. However, ensuring an optimal number of bikes available at different locations and times is crucial for a seamless user experience.
+Bike-sharing systems have gained tremendous popularity as an eco-friendly and convenient mode of transportation in urban areas. 
+
+These systems allow users to rent bikes for short periods, promoting sustainable mobility and reducing traffic congestion. 
+
+However, ensuring an optimal number of bikes available at different locations and times is crucial for a seamless user experience.
 
 The "Bike Sharing Demand Prediction" project aims to forecast the demand for bikes in a bike-sharing system using machine learning Regression techniques. By accurately predicting bike rental demand, the service provider can efficiently manage their fleet, anticipate user needs, and optimize the overall system performance.
 
@@ -14,18 +18,31 @@ The dataset used in this project can be obtained from [here](https://drive.googl
 The dataset includes the following features:
 
 Date: date-month-year
+
 Rented Bike count - Count of bikes rented at each hour
+
 Hour - Hour of the day
+
 Temperature-Temperature in Celsius
+
 Humidity - Humidity in %
+
 Windspeed - Windspeed in m/s
+
 Visibility - Visibility in 10m
+
 Dew point temperature - the temperature in Celsius
+
 Solar radiation - Solar radiation in MJ/m2
+
 Rainfall - Rainfall in mm
+
 Snowfall - Snowfall in cm
+
 Seasons - [Winter, Spring, Summer, Autumn]
+
 Holiday - whether the day is considered a holiday [Holiday/No holiday]
+
 Functional Day -whether the day is neither a weekend nor holiday[No(Non Functional Hours), Yes(Functional hours)]
 
 ## Installation
